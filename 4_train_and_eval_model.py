@@ -26,7 +26,7 @@ class StemmedCountVectorizer(CountVectorizer):
         return lambda doc: ([stemmer.stem(w) for w in analyzer(doc)])
 
 
-column_to_predict = "urgencia_id"
+column_to_predict = "impacto_id"
 # Supported datasets:
 # ticket_type
 # business_service

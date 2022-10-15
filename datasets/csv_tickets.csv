@@ -1,0 +1,80 @@
+titulo,body,area_id,categoria_id,urgencia_id,impacto_id,asignado_id,estado,fecha_creacion_txt,usuario_id
+Error en sistema de almacen,El programa no abre y no deja avanzar con los despachos,3,3,3,1,32,0,2022-09-16,22
+No llegan correos,"Estoy tratando de recibir correos pero no me llegan, ya voy más de 20 minutos y nada",1,2,2,3,30,0,2022-09-24,12
+No envio correos,Hace como 30 minutos mande un correo pero mi cliente indica que no llego ningun correo,3,2,2,3,39,0,2022-10-05,5
+Mi teclado no funciona,No puedo escribir un archivo word y creo que es mi teclado,1,1,1,3,30,0,2022-09-14,18
+El puerto usb,Trato de conectar un usb a mi maquina y no me reconoce,4,1,1,2,31,0,2022-10-01,2
+La impresora no prende,Trato de prender mi impresora pero no sale niguna luz led,1,4,4,1,31,0,2022-09-13,15
+Imprime en blanco,Estoy mandando a imprimir pero sale la hoja en blanco,6,3,3,1,39,0,2022-10-06,2
+Se atora la hoja,Mando a imprimir pero sale una hoja bien y la otra se atora,2,2,2,1,36,0,2022-09-29,24
+Mi pc no prende,Estoy intentando prender mi maquina pero no sale ninguna luz que prende,6,4,4,1,39,0,2022-09-22,18
+Mi mouse no funciona,Trato de mover de todas las formas posibles el mouse pero no me responde,3,2,2,1,41,0,2022-10-04,8
+Mi teclado numerico se bloqueo,No me funciona el teclado numerico de la dejo de funcionar,1,1,1,3,30,0,2022-10-02,14
+No se puede adjuntar archivos,Estoy tratando de adjuntar un archivo a mi correo pero no se adjunta,6,2,2,3,32,0,2022-09-01,16
+No puedo abrir un archivo,Me mandaron un archivo por correo pero no puedo abrirlo,2,3,3,1,42,0,2022-10-04,3
+Solo veo letras no imagen,Estoy abriendo un word pero solo me salen las letras pero no veo ninguna imagen,4,1,1,2,30,0,2022-09-20,12
+La pc no lee mi usb,Estoy poniendo un usb de un cliente para que me de una informacion pero no lee mi pc,3,3,3,3,40,0,2022-09-13,23
+Se volteo la pantalla,Prendi mi computadora y me sale mi pantalla volteada,1,1,1,3,37,0,2022-10-01,20
+No abren paginas web,Estoy ingresando al navegador pero las paginas que deseo ver no me abren,6,2,2,1,34,0,2022-10-01,25
+No me editar en el excel,Mi Excel de la nada ya no me deja editar a pesar que cerre y abri de nuevo,4,3,3,1,37,0,2022-10-12,24
+Mi pantalla se puso negra,Estaba trabajando un archivo en word y de la nada mi pantalla se puso negra,1,4,4,1,42,0,2022-09-25,13
+No me abren los aplicativos,Estoy tratatndo de abrir mis aplicativos y ninguno abre,5,4,4,1,35,0,2022-09-05,12
+Los purtos delanteros no funcionan,Los puertos delanteros de mi pc no funcionan ya apague y prendi mi pc y nada,4,1,1,2,32,0,2022-09-12,14
+No puedo imprimir,La impresora de la nada dejo de imprimir,3,3,3,1,31,0,2022-09-10,16
+No salen bien las etiquetas,Mando a imprimir mis etiquetas pero me salen mal descuadradas,4,4,4,1,33,0,2022-10-07,13
+No puedo maximizar mi ventana,Trato de maximizar mis ventanas de mi aplicativos pero no se puede,1,2,2,3,35,0,2022-09-10,17
+No pudo minimizar mi ventana,Trato de minimizar mis ventanas de mi aplicativos pero no se puede,3,2,2,3,42,0,2022-09-03,18
+No puedo copiar mi imagen,Estoy intentando copiar una imagen a mi archivo word pero no me deja,6,2,2,3,41,0,2022-10-06,12
+No funciona mi camara web,Tengo una reunion zoom pero no funciona mi camara web,1,1,1,1,35,0,2022-09-12,4
+No puedo descargar archivos,Me mandaron un archivo adjunto pero no puedo descargarlo,4,1,1,3,35,0,2022-09-03,4
+No me funciona el microfono,Estoy teniendo una reunion por google meet pero no me funciona el microfono,3,1,1,1,37,0,2022-09-11,18
+No funciona mis parlantes,Tengo una reunion por zoom pero no escucho nada de lo que dicen,2,1,1,1,33,0,2022-09-14,17
+No tengo internet,Desde que ingrese al navegador no me carga ninguna pagina web,6,3,3,1,33,0,2022-09-11,26
+No puedo ver archivos compartidos,Trato de abrir mis archivos comprartidos pero no me abren a pesar que reincie mi pc ya dos veces,4,2,2,1,30,0,2022-09-29,9
+No puedo ver videos,Estoy tratando de ver videos de capacitacion pero no me abren,5,2,2,3,37,0,2022-09-30,19
+No me funciona algunas teclas,No me escriben algunas teclas,1,2,2,1,39,0,2022-09-21,17
+No puedo copiar un archivo,No puedo copiar un archivo de una carpeta compartida,2,3,3,1,40,0,2022-09-08,24
+No puedo hacer una captura,No puedo hacer in ImprPant para poder mandar por correo unas fotos para el cliente,3,3,3,1,31,0,2022-09-30,25
+No puedo aclarar mi pantalla,Estoy tratando de poner mi pantalla mas claro porque la veo muy opaca pero no se puede,1,2,2,3,39,0,2022-09-15,29
+Mi internet está lento,No puedo navegar correctamente las paginas casi ni cargan y me retrasa en lo que tengo que hacer,6,3,3,1,32,0,2022-10-04,2
+Mis archivos demoran en abrir,Estoy tratando de abrir mis archivos compartidos pero demoran demasiado,1,4,4,1,30,0,2022-09-04,2
+Pc lenta,Al abrir un programa se demora,1,3,3,1,36,0,2022-10-06,5
+Mouse no funciona,No puedo trabajar,2,1,1,2,42,0,2022-10-06,13
+Sistema contable no funciona,No se puede ingresar al sistema,3,3,3,3,42,0,2022-09-07,23
+No imprime,No funciona al momento de imprimir,4,3,3,1,41,0,2022-09-16,5
+No puedo conectar con el Teams,No puedo unirme a la reunion,5,2,2,2,33,0,2022-09-06,4
+No funciona la camara,No se prende,6,1,1,3,41,0,2022-09-18,2
+No funciona el audio,Tampoco se escucha nada,1,1,1,1,42,0,2022-09-17,28
+Errores del sistema operativo.,no ingresa al sistema operativo,2,4,4,2,33,0,2022-09-21,7
+El ordenador no se enciende,no prende la laptop,3,4,4,3,37,0,2022-09-05,11
+Problemas con la pantalla del portátil,no se ve la imagen,4,4,4,1,31,0,2022-10-09,29
+El ratón y el teclado no funcionan,no funiciona ninguno de los dos,5,2,2,2,38,0,2022-10-07,20
+Problemas con la tarjeta gráfica,Se ve oscuro,6,3,3,3,31,0,2022-10-13,10
+No abre el word,se queda pensando la laptop,1,2,2,1,42,0,2022-10-01,29
+No habre el correo,Se demora al abrir,2,2,2,2,32,0,2022-09-23,3
+El sistema no emite reportes,"al momento de enviar , no sale el documento",3,3,3,3,40,0,2022-10-08,2
+Los reportes salen con errores,sale descuadrado la impresión,4,3,3,1,41,0,2022-09-29,6
+No se puede escanear,no se conecta a la impresora,5,3,3,1,32,0,2022-09-12,23
+Problemas con la memoria Ram,se demora mucho cada accion,6,3,3,3,42,0,2022-09-19,13
+La pérdida de datos.,no guarda la informacion,1,4,4,3,30,0,2022-09-27,9
+Mi pc esta con virus informáticos.,se demora la cargar los documentos,2,4,4,1,32,0,2022-09-26,5
+No se puede conectar al internet,el inernet es inestable,3,4,4,2,40,0,2022-09-09,8
+Falta de actualización de los ordenadores.,no puedo habrir docuemetos de otra version,4,4,4,3,37,0,2022-09-17,5
+probelmas con el Excel,no puedo realizar calculos,5,2,2,1,35,0,2022-10-12,28
+El teclado esta desconfigurado,sale cualquier letra,6,2,2,2,32,0,2022-10-09,20
+Mi laptop se demora en cargar,Llevo dias en cargar mi laptop,1,3,3,1,37,0,2022-09-20,11
+No aparecen los icono en mi escritorio,No esta los iconos que deje ayer,2,2,2,2,35,0,2022-09-08,11
+No Funciona el puerto del USB de la laptop,No puedo utilizar el mouse en el puerto del usb,3,2,2,3,39,0,2022-09-25,6
+El cargador de la Laptop no fuciona,El cable esta roto,4,2,2,1,33,0,2022-09-14,11
+La bateria de la laptop no funciona,"no carga la bateria , se baja rapido",5,2,2,2,35,0,2022-09-16,13
+No puedo grabar,No puedo grabar reuniones desde mi laptop,6,3,3,3,30,0,2022-09-14,14
+No ubico un archivo,"No ubico el archivo de almacen , que baje ayer",1,1,1,1,31,0,2022-09-16,6
+No funcion la tecla de brillo de la pantalla de mi laptop,Mi pantalla esta oscura,2,1,1,2,36,0,2022-10-13,25
+No puedo utlizar el Whatsapp Web en mi Laptop,No puedo conectarme,3,2,2,3,34,0,2022-09-07,5
+No puedo cargar archivos en la nube,Sale error al momento de cargar,4,3,3,1,41,0,2022-10-07,2
+No puedo descagar archivos de la nube,sale error al decargar archivo que se subi ayer,5,3,3,2,33,0,2022-09-04,10
+No puedo imprimi a colores,Solo sale en blanco y negro,6,1,1,3,34,0,2022-09-10,18
+No puedo sacar copias en bloque,La impresora no jala el papel,1,2,2,1,33,0,2022-10-01,26
+La impresora se atasca,Varias veces se atasca,2,1,1,2,36,0,2022-10-09,6
+No hay tinta en la impresora,No imprime a colores,3,1,1,3,30,0,2022-09-06,19
+Le falta el color negro a la impresora,Sale solo de color azul,4,1,1,1,37,0,2022-09-16,24
